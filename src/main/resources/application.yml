@@ -6,7 +6,6 @@ spring:
   application:
     name: discoveryservice
 
-#??? ??
 
 # 자신의 정보를 자신에게 등록하는 의미없는 작업 막기
 eureka:
